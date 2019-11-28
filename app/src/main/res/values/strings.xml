@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejemplo 1</string>
+    <string name="p_lsame">¡Púlsame!</string>
+    <string name="el_n_mero_de_veces_que_has_pulsado_es">El número de veces que has pulsado es:</string>
+</resources>
